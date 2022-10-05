@@ -2,6 +2,7 @@
 Jumper is a game in which the player seeks to solve a puzzle by guessing the letters of a secret word one at a time.
 
 Rules
+
 Jumper is played according to the following rules.
 
 The puzzle is a secret word randomly chosen from a list.
